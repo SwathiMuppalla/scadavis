@@ -1,0 +1,2063 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   class="highcharts-root"
+   style="font-family:&quot;Lucida Grande&quot;, &quot;Lucida Sans Unicode&quot;, Arial, Helvetica, sans-serif;font-size:12px;"
+   width="600"
+   height="300"
+   viewBox="0 0 600 300"
+   id="svg628"
+   sodipodi:docname="speedometer_test.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata632">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1905"
+     inkscape:window-height="933"
+     id="namedview630"
+     showgrid="false"
+     inkscape:zoom="1.6866667"
+     inkscape:cx="381.72899"
+     inkscape:cy="34.531398"
+     inkscape:window-x="3"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g290" />
+  <desc
+     id="desc2">Created with Highcharts 7.2.0</desc>
+  <defs
+     id="defs22">
+    <clipPath
+       id="highcharts-nn7pxcl-11-">
+      <rect
+         x="0"
+         y="0"
+         width="580"
+         height="232"
+         fill="none"
+         id="rect4" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1"
+       id="highcharts-nn7pxcl-12">
+      <stop
+         offset="0"
+         stop-color="#FFF"
+         stop-opacity="1"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#333"
+         stop-opacity="1"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1"
+       id="highcharts-nn7pxcl-13">
+      <stop
+         offset="0"
+         stop-color="#333"
+         stop-opacity="1"
+         id="stop12" />
+      <stop
+         offset="1"
+         stop-color="#FFF"
+         stop-opacity="1"
+         id="stop14" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1"
+       id="highcharts-nn7pxcl-14">
+      <stop
+         offset="0"
+         stop-color="#ffffff"
+         stop-opacity="1"
+         id="stop17" />
+      <stop
+         offset="1"
+         stop-color="#e6e6e6"
+         stop-opacity="1"
+         id="stop19" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1460"
+       x="-0.264"
+       width="1.528"
+       y="-0.264"
+       height="1.528">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="23.64428"
+         id="feGaussianBlur1462" />
+    </filter>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="{&quot;attr&quot;:&quot;clone&quot;,&quot;map&quot;:[&quot;%n=ipv6_download&quot;]}">
+    <rect
+       style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;fill:#000000"
+       class="highcharts-background"
+       x="0"
+       y="0"
+       width="600"
+       height="300"
+       rx="0"
+       ry="0"
+       id="rect24" />
+    <rect
+       style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;fill:none"
+       class="highcharts-plot-background"
+       x="10"
+       y="53"
+       width="580"
+       height="232"
+       id="rect26" />
+    <g
+       class="highcharts-pane-group"
+       data-z-index="0"
+       id="g36"
+       style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;filter:url(#filter1460)"
+       inkscape:transform-center-y="-1.1857707">
+      <path
+         d="m 300,61.526 a 107.474,107.474 0 1 1 -0.10747,5.4e-5 M 300,169"
+         class="highcharts-pane "
+         id="path28"
+         inkscape:connector-curvature="0"
+         style="fill:url(#highcharts-nn7pxcl-12)" />
+      <path
+         d="m 300,63.498 a 105.502,105.502 0 1 1 -0.1055,5.3e-5 M 300,169"
+         class="highcharts-pane "
+         id="path30"
+         inkscape:connector-curvature="0"
+         style="fill:url(#highcharts-nn7pxcl-13);stroke:#cccccc;stroke-width:1" />
+      <path
+         d="m 300,65.47 a 103.53,103.53 0 1 1 -0.10353,5.2e-5 M 300,169"
+         class="highcharts-pane "
+         id="path32"
+         inkscape:connector-curvature="0"
+         style="fill:url(#highcharts-nn7pxcl-14);stroke:#cccccc;stroke-width:1" />
+      <path
+         d="m 300,65.47 a 103.53,103.53 0 1 1 -0.10353,5.2e-5 m 0.002,1.971999 A 101.558,101.558 0 1 0 300,67.442"
+         class="highcharts-pane "
+         id="path34"
+         inkscape:connector-curvature="0"
+         style="fill:#dddddd" />
+    </g>
+    <g
+       style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif"
+       class="highcharts-plot-bands-0"
+       data-z-index="0"
+       id="g44">
+      <path
+         class="highcharts-plot-band "
+         d="M 250.7,254.3901 A 98.6,98.6 0 0 1 349.21459,83.560638 l -4.99134,8.66525 A 88.6,88.6 0 0 0 255.7,245.72985 Z"
+         id="path38"
+         inkscape:connector-curvature="0"
+         style="fill:#d40000" />
+      <path
+         class="highcharts-plot-band "
+         d="m 349.3,83.609895 a 98.6,98.6 0 0 1 49.29995,85.291505 l -9.99999,0.01 A 88.6,88.6 0 0 0 344.3,92.270149 Z"
+         id="path40"
+         inkscape:connector-curvature="0"
+         style="fill:#dddf0d" />
+      <path
+         class="highcharts-plot-band "
+         d="m 398.6,169 a 98.6,98.6 0 0 1 -49.21463,85.34076 l -5.00866,-8.65525 A 88.6,88.6 0 0 0 388.6,169 Z"
+         id="path42"
+         inkscape:connector-curvature="0"
+         style="fill:#00ff00"
+         inkscape:label="path42" />
+    </g>
+    <g
+       style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif"
+       class="highcharts-grid highcharts-yaxis-grid"
+       data-z-index="1"
+       id="g290">
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -49.3,85.3901"
+         id="path46"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -53.70141,82.69292"
+         id="path48"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -57.95563,79.76908"
+         id="path50"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -62.05099,76.62659"
+         id="path52"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -65.97628,73.27408"
+         id="path54"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -69.72073,69.72073"
+         id="path56"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -73.27408,65.97628"
+         id="path58"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -76.62659,62.05099"
+         id="path60"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -79.76908,57.95563"
+         id="path62"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -82.69292,53.70141"
+         id="path64"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -85.3901,49.3"
+         id="path66"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -87.85324,44.76346"
+         id="path68"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -90.07558,40.10423"
+         id="path70"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -92.05103,35.33508"
+         id="path72"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -93.77417,30.46908"
+         id="path74"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -95.24029,25.51956"
+         id="path76"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -96.44535,20.50009"
+         id="path78"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -97.38607,15.42444"
+         id="path80"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -98.05986,10.30651"
+         id="path82"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -98.46487,5.16033"
+         id="path84"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 H 201.4"
+         id="path86"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 -98.46487,-5.16033"
+         id="path88"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 201.94014,158.69349"
+         id="path90"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 202.61393,153.57556"
+         id="path92"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 203.55465,148.49991"
+         id="path94"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 204.75971,143.48044"
+         id="path96"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 206.22583,138.53092"
+         id="path98"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 207.94897,133.66492"
+         id="path100"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 209.92442,128.89577"
+         id="path102"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 212.14676,124.23654"
+         id="path104"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 214.6099,119.7"
+         id="path106"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 217.30708,115.29859"
+         id="path108"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 220.23092,111.04437"
+         id="path110"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 223.37341,106.94901"
+         id="path112"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 226.72592,103.02372"
+         id="path114"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 230.27927,99.279271"
+         id="path116"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 234.02372,95.72592"
+         id="path118"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 237.94901,92.373408"
+         id="path120"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 242.04437,89.230924"
+         id="path122"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 246.29859,86.307082"
+         id="path124"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 250.7,83.609895"
+         id="path126"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 255.23654,81.146757"
+         id="path128"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 259.89577,78.924418"
+         id="path130"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 264.66492,76.94897"
+         id="path132"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 269.53092,75.225827"
+         id="path134"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 274.48044,73.759714"
+         id="path136"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 279.49991,72.554647"
+         id="path138"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 284.57556,71.61393"
+         id="path140"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 289.69349,70.940141"
+         id="path142"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 294.83967,70.535128"
+         id="path144"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 V 70.4"
+         id="path146"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 5.16033,-98.464872"
+         id="path148"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 310.30651,70.940141"
+         id="path150"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 315.42444,71.61393"
+         id="path152"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 320.50009,72.554647"
+         id="path154"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 325.51956,73.759714"
+         id="path156"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 330.46908,75.225827"
+         id="path158"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 335.33508,76.94897"
+         id="path160"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 340.10423,78.924418"
+         id="path162"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 344.76346,81.146757"
+         id="path164"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 349.3,83.609895"
+         id="path166"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 353.70141,86.307082"
+         id="path168"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 357.95563,89.230924"
+         id="path170"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 362.05099,92.373408"
+         id="path172"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 365.97628,95.72592"
+         id="path174"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="M 300,169 369.72073,99.279271"
+         id="path176"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 73.27408,-65.97628"
+         id="path178"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 76.62659,-62.05099"
+         id="path180"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 79.76908,-57.95563"
+         id="path182"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 82.69292,-53.70141"
+         id="path184"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 85.3901,-49.3"
+         id="path186"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 87.85324,-44.76346"
+         id="path188"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 90.07558,-40.10423"
+         id="path190"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 92.05103,-35.33508"
+         id="path192"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 93.77417,-30.46908"
+         id="path194"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 95.24029,-25.51956"
+         id="path196"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 96.44535,-20.50009"
+         id="path198"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 97.38607,-15.42444"
+         id="path200"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 98.05986,-10.30651"
+         id="path202"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 98.46487,-5.16033"
+         id="path204"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 h 98.6"
+         id="path206"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 98.46487,5.16033"
+         id="path208"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 98.05986,10.30651"
+         id="path210"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 97.38607,15.42444"
+         id="path212"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 96.44535,20.50009"
+         id="path214"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 95.24029,25.51956"
+         id="path216"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 93.77417,30.46908"
+         id="path218"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 92.05103,35.33508"
+         id="path220"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 90.07558,40.10423"
+         id="path222"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 87.85324,44.76346"
+         id="path224"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 85.3901,49.3"
+         id="path226"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 82.69292,53.70141"
+         id="path228"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 79.76908,57.95563"
+         id="path230"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 76.62659,62.05099"
+         id="path232"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 73.27408,65.97628"
+         id="path234"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 69.72073,69.72073"
+         id="path236"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 65.97628,73.27408"
+         id="path238"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 62.05099,76.62659"
+         id="path240"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 57.95563,79.76908"
+         id="path242"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 53.70141,82.69292"
+         id="path244"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         class="highcharts-minor-grid-line"
+         d="m 300,169 49.3,85.3901"
+         id="path246"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="m 300,169 -49.3,85.3901"
+         id="path248"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="m 300,169 -69.72073,69.72073"
+         id="path250"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="m 300,169 -85.3901,49.3"
+         id="path252"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="m 300,169 -95.24029,25.51956"
+         id="path254"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="M 300,169 H 201.4"
+         id="path256"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="M 300,169 204.75971,143.48044"
+         id="path258"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="M 300,169 214.6099,119.7"
+         id="path260"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="M 300,169 230.27927,99.279271"
+         id="path262"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="M 300,169 250.7,83.609895"
+         id="path264"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="M 300,169 274.48044,73.759714"
+         id="path266"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="M 300,169 V 70.4"
+         id="path268"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="M 300,169 325.51956,73.759714"
+         id="path270"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="M 300,169 349.3,83.609895"
+         id="path272"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="M 300,169 369.72073,99.279271"
+         id="path274"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="m 300,169 85.3901,-49.3"
+         id="path276"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="m 300,169 95.24029,-25.51956"
+         id="path278"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="m 300,169 h 98.6"
+         id="path280"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="m 300,169 95.24029,25.51956"
+         id="path282"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="m 300,169 85.3901,49.3"
+         id="path284"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="m 300,169 69.72073,69.72073"
+         id="path286"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+      <path
+         data-z-index="1"
+         class="highcharts-grid-line"
+         d="m 300,169 49.3,85.3901"
+         id="path288"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none" />
+    </g>
+    <rect
+       style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;fill:none"
+       class="highcharts-plot-border"
+       data-z-index="1"
+       x="10"
+       y="53"
+       width="580"
+       height="232"
+       id="rect292" />
+    <g
+       style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif"
+       class="highcharts-axis highcharts-yaxis"
+       data-z-index="2"
+       id="g542">
+      <path
+         class="highcharts-minor-tick"
+         d="m 250.7,254.3901 5,-8.66025"
+         id="path294"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 246.29859,251.69292 5.44639,-8.38671"
+         id="path296"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 242.04437,248.76908 5.87786,-8.09017"
+         id="path298"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 237.94901,245.62659 6.2932,-7.77146"
+         id="path300"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 234.02372,242.27408 6.69131,-7.43145"
+         id="path302"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 230.27927,238.72073 7.07107,-7.07107"
+         id="path304"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 226.72592,234.97628 7.43145,-6.69131"
+         id="path306"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 223.37341,231.05099 7.77146,-6.2932"
+         id="path308"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 220.23092,226.95563 8.09017,-5.87786"
+         id="path310"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 217.30708,222.70141 8.38671,-5.44639"
+         id="path312"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 214.6099,218.3 8.66025,-5"
+         id="path314"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 212.14676,213.76346 8.91006,-4.5399"
+         id="path316"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 209.92442,209.10423 9.13545,-4.06736"
+         id="path318"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 207.94897,204.33508 9.3358,-3.58368"
+         id="path320"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 206.22583,199.46908 9.51056,-3.09017"
+         id="path322"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 204.75971,194.51956 9.65926,-2.58819"
+         id="path324"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 203.55465,189.50009 9.78147,-2.07911"
+         id="path326"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 202.61393,184.42444 9.87688,-1.56435"
+         id="path328"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 201.94014,179.30651 9.94522,-1.04529"
+         id="path330"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 201.53513,174.16033 9.98629,-0.52336"
+         id="path332"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 201.4,169 h 10"
+         id="path334"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 201.53513,163.83967 9.98629,0.52336"
+         id="path336"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 201.94014,158.69349 9.94522,1.04529"
+         id="path338"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 202.61393,153.57556 9.87688,1.56435"
+         id="path340"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 203.55465,148.49991 9.78147,2.07911"
+         id="path342"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 204.75971,143.48044 9.65926,2.58819"
+         id="path344"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 206.22583,138.53092 9.51056,3.09017"
+         id="path346"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 207.94897,133.66492 9.3358,3.58368"
+         id="path348"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 209.92442,128.89577 9.13545,4.06736"
+         id="path350"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 212.14676,124.23654 8.91006,4.5399"
+         id="path352"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 214.6099,119.7 8.66025,5"
+         id="path354"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 217.30708,115.29859 8.38671,5.44639"
+         id="path356"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 220.23092,111.04437 8.09017,5.87786"
+         id="path358"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 223.37341,106.94901 7.77146,6.2932"
+         id="path360"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 226.72592,103.02372 7.43145,6.69131"
+         id="path362"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 230.27927,99.279271 7.07107,7.071069"
+         id="path364"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 234.02372,95.72592 6.69131,7.43145"
+         id="path366"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 237.94901,92.373408 6.2932,7.771462"
+         id="path368"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 242.04437,89.230924 5.87786,8.09017"
+         id="path370"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 246.29859,86.307082 5.44639,8.386706"
+         id="path372"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 250.7,83.609895 5,8.660254"
+         id="path374"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 255.23654,81.146757 4.5399,8.910065"
+         id="path376"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 259.89577,78.924418 4.06736,9.135454"
+         id="path378"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 264.66492,76.94897 3.58368,9.335804"
+         id="path380"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 269.53092,75.225827 3.09017,9.510566"
+         id="path382"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 274.48044,73.759714 2.58819,9.659258"
+         id="path384"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 279.49991,72.554647 2.07911,9.781476"
+         id="path386"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 284.57556,71.61393 1.56435,9.876883"
+         id="path388"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 289.69349,70.940141 1.04529,9.945219"
+         id="path390"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 294.83967,70.535128 0.52336,9.986295"
+         id="path392"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 300,70.4 v 10"
+         id="path394"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 305.16033,70.535128 -0.52336,9.986295"
+         id="path396"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 310.30651,70.940141 -1.04529,9.945219"
+         id="path398"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 315.42444,71.61393 -1.56435,9.876883"
+         id="path400"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 320.50009,72.554647 -2.07911,9.781476"
+         id="path402"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 325.51956,73.759714 -2.58819,9.659258"
+         id="path404"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 330.46908,75.225827 -3.09017,9.510566"
+         id="path406"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 335.33508,76.94897 -3.58368,9.335804"
+         id="path408"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 340.10423,78.924418 -4.06736,9.135454"
+         id="path410"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 344.76346,81.146757 -4.5399,8.910065"
+         id="path412"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 349.3,83.609895 -5,8.660254"
+         id="path414"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 353.70141,86.307082 -5.44639,8.386706"
+         id="path416"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 357.95563,89.230924 -5.87786,8.09017"
+         id="path418"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 362.05099,92.373408 -6.2932,7.771462"
+         id="path420"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 365.97628,95.72592 -6.69131,7.43145"
+         id="path422"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 369.72073,99.279271 -7.07107,7.071069"
+         id="path424"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 373.27408,103.02372 -7.43145,6.69131"
+         id="path426"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 376.62659,106.94901 -7.77146,6.2932"
+         id="path428"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 379.76908,111.04437 -8.09017,5.87786"
+         id="path430"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 382.69292,115.29859 -8.38671,5.44639"
+         id="path432"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 385.3901,119.7 -8.66025,5"
+         id="path434"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 387.85324,124.23654 -8.91006,4.5399"
+         id="path436"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 390.07558,128.89577 -9.13545,4.06736"
+         id="path438"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 392.05103,133.66492 -9.3358,3.58368"
+         id="path440"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 393.77417,138.53092 -9.51056,3.09017"
+         id="path442"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 395.24029,143.48044 -9.65926,2.58819"
+         id="path444"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 396.44535,148.49991 -9.78147,2.07911"
+         id="path446"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 397.38607,153.57556 -9.87688,1.56435"
+         id="path448"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 398.05986,158.69349 -9.94522,1.04529"
+         id="path450"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 398.46487,163.83967 -9.98629,0.52336"
+         id="path452"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 398.6,169 h -10"
+         id="path454"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 398.46487,174.16033 -9.98629,-0.52336"
+         id="path456"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 398.05986,179.30651 -9.94522,-1.04529"
+         id="path458"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 397.38607,184.42444 -9.87688,-1.56435"
+         id="path460"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 396.44535,189.50009 -9.78147,-2.07911"
+         id="path462"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 395.24029,194.51956 -9.65926,-2.58819"
+         id="path464"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 393.77417,199.46908 -9.51056,-3.09017"
+         id="path466"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 392.05103,204.33508 -9.3358,-3.58368"
+         id="path468"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 390.07558,209.10423 -9.13545,-4.06736"
+         id="path470"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 387.85324,213.76346 -8.91006,-4.5399"
+         id="path472"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 385.3901,218.3 -8.66025,-5"
+         id="path474"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 382.69292,222.70141 -8.38671,-5.44639"
+         id="path476"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 379.76908,226.95563 -8.09017,-5.87786"
+         id="path478"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 376.62659,231.05099 -7.77146,-6.2932"
+         id="path480"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 373.27408,234.97628 -7.43145,-6.69131"
+         id="path482"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 369.72073,238.72073 -7.07107,-7.07107"
+         id="path484"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 365.97628,242.27408 -6.69131,-7.43145"
+         id="path486"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 362.05099,245.62659 -6.2932,-7.77146"
+         id="path488"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 357.95563,248.76908 -5.87786,-8.09017"
+         id="path490"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 353.70141,251.69292 -5.44639,-8.38671"
+         id="path492"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-minor-tick"
+         d="m 349.3,254.3901 -5,-8.66025"
+         id="path494"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:1" />
+      <path
+         class="highcharts-tick"
+         d="m 250.7,254.3901 5,-8.66025"
+         id="path496"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 230.27927,238.72073 7.07107,-7.07107"
+         id="path498"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 214.6099,218.3 8.66025,-5"
+         id="path500"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 204.75971,194.51956 9.65926,-2.58819"
+         id="path502"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 201.4,169 h 10"
+         id="path504"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 204.75971,143.48044 9.65926,2.58819"
+         id="path506"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 214.6099,119.7 8.66025,5"
+         id="path508"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 230.27927,99.279271 7.07107,7.071069"
+         id="path510"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 250.7,83.609895 5,8.660254"
+         id="path512"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 274.48044,73.759714 2.58819,9.659258"
+         id="path514"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 300,70.4 v 10"
+         id="path516"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 325.51956,73.759714 -2.58819,9.659258"
+         id="path518"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 349.3,83.609895 -5,8.660254"
+         id="path520"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 369.72073,99.279271 -7.07107,7.071069"
+         id="path522"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 385.3901,119.7 -8.66025,5"
+         id="path524"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 395.24029,143.48044 -9.65926,2.58819"
+         id="path526"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 398.6,169 h -10"
+         id="path528"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 395.24029,194.51956 -9.65926,-2.58819"
+         id="path530"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 385.3901,218.3 -8.66025,-5"
+         id="path532"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 369.72073,238.72073 -7.07107,-7.07107"
+         id="path534"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <path
+         class="highcharts-tick"
+         d="m 349.3,254.3901 -5,-8.66025"
+         id="path536"
+         inkscape:connector-curvature="0"
+         style="opacity:1;fill:none;stroke:#666666;stroke-width:2" />
+      <text
+         x="300.5929"
+         data-z-index="7"
+         class="highcharts-axis-title"
+         style="color:#666666;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;-inkscape-font-specification:'Lucida Grande, Lucida Sans Unicode, Arial, Helvetica, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#333333"
+         y="123.85019"
+         id="text538">
+        <tspan
+           sodipodi:role="line"
+           id="tspan1213"
+           x="300.5929"
+           y="123.85019">Provision Speed</tspan>
+      </text>
+      <path
+         class="highcharts-axis-line"
+         data-z-index="7"
+         d="m 250.7,254.3901 a 98.6,98.6 0 1 1 98.68537,-0.0493 M 300,169"
+         id="path540"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#ccd6eb;stroke-width:1" />
+    </g>
+    <g
+       id="g1124"
+       inkscape:transform-center-x="-17.347484"
+       inkscape:transform-center-y="32.928182"
+       transform="rotate(92.560092,299.80782,170.46933)">
+      <path
+         transform="translate(10,53)"
+         d="m 284.24397,119.26423 53.94943,-32.734895 20.74978,-11.420658 0.51875,0.854929 -19.71229,13.130516 -53.94944,32.734898 z"
+         data-z-index="1"
+         class="highcharts-dial"
+         id="Needle"
+         inkscape:connector-curvature="0"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;opacity:0.98999999;fill:#000000"
+         inkscape:transform-center-x="-31.318533"
+         inkscape:transform-center-y="-19.111536"
+         inkscape:label="{&quot;attr&quot;:&quot;color&quot;,&quot;list&quot;:[{&quot;data&quot;:&quot;-99999&quot;,&quot;param&quot;:&quot;#fbc809&quot;,&quot;tag&quot;:&quot;T2&quot;},{&quot;data&quot;:&quot;500&quot;,&quot;param&quot;:&quot;#fbc809&quot;,&quot;tag&quot;:&quot;T2&quot;},{&quot;data&quot;:&quot;800&quot;,&quot;param&quot;:&quot;@red&quot;,&quot;tag&quot;:&quot;T2&quot;}]},{&quot;attr&quot;:&quot;rotate&quot;,&quot;max&quot;:T2,&quot;min&quot;:0,&quot;tag&quot;:&quot;T2&quot;},{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;prompt&quot;:&quot;&quot;,&quot;src&quot;:&quot;&quot;,&quot;tag&quot;:&quot;#exec_once&quot;,&quot;type&quot;:&quot;Data&quot;}" />
+      <circle
+         cx="299.31104"
+         cy="171.34543"
+         r="5"
+         data-z-index="2"
+         class="highcharts-pivot"
+         id="circle558"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;fill:#000000" />
+    </g>
+    <text
+       x="300"
+       class="highcharts-title"
+       data-z-index="4"
+       style="color:#333333;font-size:18px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;text-anchor:middle;fill:#ffffff"
+       y="24"
+       id="text568">
+      <tspan
+         id="tspan566"
+         style="fill:#ffffff">Speedometer</tspan>
+    </text>
+    <text
+       x="300"
+       class="highcharts-subtitle"
+       data-z-index="4"
+       style="color:#666666;font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;text-anchor:middle;fill:#666666"
+       y="52"
+       id="text570" />
+    <text
+       x="10"
+       class="highcharts-caption"
+       data-z-index="4"
+       style="color:#666666;font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;text-anchor:start;fill:#666666"
+       y="297"
+       id="text572" />
+    <g
+       style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif"
+       class="highcharts-axis-labels highcharts-yaxis-labels"
+       data-z-index="7"
+       id="g624"
+       inkscape:label="g624">
+      <text
+         x="263.20001"
+         style="color:#666666;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;-inkscape-font-specification:'Lucida Grande, Lucida Sans Unicode, Arial, Helvetica, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:0.73999999;fill:#ff0000"
+         transform="rotate(-150,263.2,232.73947)"
+         y="232.73947"
+         id="text582">
+        <tspan
+           sodipodi:role="line"
+           id="tspan1152"
+           x="263.20001"
+           y="232.73947">0</tspan>
+      </text>
+      <text
+         x="0"
+         style="color:#666666;font-size:11px;text-anchor:middle;fill:#666666"
+         transform="rotate(-135,0,-9999)"
+         y="-9999"
+         id="text584">10</text>
+      <text
+         x="236.26053"
+         style="color:#666666;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;-inkscape-font-specification:'Lucida Grande, Lucida Sans Unicode, Arial, Helvetica, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ff0000"
+         transform="rotate(-120,236.26053,205.8)"
+         y="205.8"
+         id="text586">
+        <tspan
+           sodipodi:role="line"
+           id="tspan1154"
+           x="236.26053"
+           y="205.8">100</tspan>
+      </text>
+      <text
+         x="0"
+         style="color:#666666;font-size:11px;text-anchor:middle;opacity:0;fill:#666666"
+         transform="rotate(-105,0,-9999)"
+         y="-9999"
+         id="text588">30</text>
+      <text
+         x="226.39999"
+         style="color:#666666;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;-inkscape-font-specification:'Lucida Grande, Lucida Sans Unicode, Arial, Helvetica, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ff0000"
+         transform="rotate(-90,226.4,169)"
+         y="169"
+         id="text590">
+        <tspan
+           sodipodi:role="line"
+           id="tspan1156"
+           x="226.39999"
+           y="169">200</tspan>
+      </text>
+      <text
+         x="0"
+         style="color:#666666;font-size:11px;text-anchor:middle;opacity:0;fill:#666666"
+         transform="rotate(-75,0,-9999)"
+         y="-9999"
+         id="text592">50</text>
+      <text
+         x="236.26053"
+         style="color:#666666;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;-inkscape-font-specification:'Lucida Grande, Lucida Sans Unicode, Arial, Helvetica, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ff0000"
+         transform="rotate(-60,236.26053,132.2)"
+         y="132.2"
+         id="text594">
+        <tspan
+           sodipodi:role="line"
+           id="tspan1158"
+           x="236.26053"
+           y="132.2">300</tspan>
+      </text>
+      <text
+         x="0"
+         style="color:#666666;font-size:11px;text-anchor:middle;opacity:0;fill:#666666"
+         transform="rotate(-45,0,-9999)"
+         y="-9999"
+         id="text596">70</text>
+      <text
+         x="263.20001"
+         style="color:#666666;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;-inkscape-font-specification:'Lucida Grande, Lucida Sans Unicode, Arial, Helvetica, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ff0000"
+         transform="rotate(-30,263.2,105.26053)"
+         y="105.26053"
+         id="text598">
+        <tspan
+           sodipodi:role="line"
+           id="tspan1160"
+           x="263.20001"
+           y="105.26053">400</tspan>
+      </text>
+      <text
+         x="0"
+         style="color:#666666;font-size:11px;text-anchor:middle;opacity:0;fill:#666666"
+         transform="rotate(-15,0,-9999)"
+         y="-9999"
+         id="text600">90</text>
+      <text
+         x="300"
+         style="color:#666666;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;-inkscape-font-specification:'Lucida Grande, Lucida Sans Unicode, Arial, Helvetica, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ff0000"
+         y="95.400002"
+         id="text602">
+        <tspan
+           sodipodi:role="line"
+           id="tspan1162"
+           x="300"
+           y="95.400002">500</tspan>
+      </text>
+      <text
+         x="0"
+         style="color:#666666;font-size:11px;text-anchor:middle;opacity:0;fill:#666666"
+         transform="rotate(15,0,-9999)"
+         y="-9999"
+         id="text604">110</text>
+      <text
+         x="336.79999"
+         style="color:#666666;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;-inkscape-font-specification:'Lucida Grande, Lucida Sans Unicode, Arial, Helvetica, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#ffcc00"
+         transform="rotate(30,336.8,105.26053)"
+         y="105.26053"
+         id="text606">
+        <tspan
+           sodipodi:role="line"
+           id="tspan1164"
+           x="336.79999"
+           y="105.26053"
+           style="fill:#ffcc00">600</tspan>
+      </text>
+      <text
+         x="0"
+         style="color:#666666;font-size:11px;text-anchor:middle;opacity:0;fill:#666666"
+         transform="rotate(45,0,-9999)"
+         y="-9999"
+         id="text608">130</text>
+      <text
+         x="363.73947"
+         style="color:#666666;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;-inkscape-font-specification:'Lucida Grande, Lucida Sans Unicode, Arial, Helvetica, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#d4aa00"
+         transform="rotate(60,363.73947,132.2)"
+         y="132.2"
+         id="text610">
+        <tspan
+           sodipodi:role="line"
+           id="tspan1166"
+           x="363.73947"
+           y="132.2">700</tspan>
+      </text>
+      <text
+         x="0"
+         style="color:#666666;font-size:11px;text-anchor:middle;opacity:0;fill:#666666"
+         transform="rotate(75,0,-9999)"
+         y="-9999"
+         id="text612">150</text>
+      <text
+         x="373.60001"
+         style="color:#666666;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;-inkscape-font-specification:'Lucida Grande, Lucida Sans Unicode, Arial, Helvetica, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#d4aa00"
+         transform="rotate(90,373.6,169)"
+         y="169"
+         id="text614">
+        <tspan
+           sodipodi:role="line"
+           id="tspan1168"
+           x="373.60001"
+           y="169">800</tspan>
+      </text>
+      <text
+         x="0"
+         style="color:#666666;font-size:11px;text-anchor:middle;opacity:0;fill:#666666"
+         transform="rotate(105,0,-9999)"
+         y="-9999"
+         id="text616">170</text>
+      <text
+         x="363.73947"
+         style="color:#666666;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;-inkscape-font-specification:'Lucida Grande, Lucida Sans Unicode, Arial, Helvetica, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#008000"
+         transform="rotate(120,363.73947,205.8)"
+         y="205.8"
+         id="text618">
+        <tspan
+           sodipodi:role="line"
+           id="tspan1170"
+           x="363.73947"
+           y="205.8">900</tspan>
+      </text>
+      <text
+         x="0"
+         style="color:#666666;font-size:11px;text-anchor:middle;opacity:0;fill:#666666"
+         transform="rotate(135,0,-9999)"
+         y="-9999"
+         id="text620">190</text>
+      <text
+         x="336.79999"
+         style="color:#666666;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;-inkscape-font-specification:'Lucida Grande, Lucida Sans Unicode, Arial, Helvetica, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#008000"
+         transform="rotate(150,336.8,232.73947)"
+         y="232.73947"
+         id="text622">
+        <tspan
+           sodipodi:role="line"
+           id="tspan1172"
+           x="336.79999"
+           y="232.73947">1000</tspan>
+      </text>
+    </g>
+    <g
+       style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate"
+       id="T1"
+       inkscape:label="T1"
+       transform="matrix(0.50024,0,0,0.55825208,239.86006,-0.29430649)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4275"
+         style="fill:#ff9955;stroke:none;stroke-linecap:square;stroke-miterlimit:3"
+         d="m 66.58,327 h 110.84 c 2.252,0 4.08,1.828 4.08,4.08 v 39.84 c 0,2.252 -1.828,4.08 -4.08,4.08 H 66.58 c -2.252,0 -4.08,-1.828 -4.08,-4.08 v -39.84 c 0,-2.252 1.828,-4.08 4.08,-4.08 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4277"
+         style="fill:none;stroke:#000000;stroke-width:6;stroke-linecap:square;stroke-miterlimit:3"
+         d="m 66.58,327 h 110.84 c 2.252,0 4.08,1.828 4.08,4.08 v 39.84 c 0,2.252 -1.828,4.08 -4.08,4.08 H 66.58 c -2.252,0 -4.08,-1.828 -4.08,-4.08 v -39.84 c 0,-2.252 1.828,-4.08 4.08,-4.08 z" />
+      <g
+         id="g4281"
+         transform="translate(65.5,332)"
+         style="fill:#ffffff">
+        <text
+           id="text4279"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.99995232px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#2b0000;stroke:none"
+           transform="translate(4.484,26.802)">
+          <tspan
+             sodipodi:role="line"
+             id="tspan1194"
+             x="0"
+             y="0">IPV6: 0</tspan>
+        </text>
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1205"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.54533386px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion1207"><rect
+           id="rect1209"
+           width="62.252964"
+           height="135.77075"
+           x="205.73123"
+           y="102.56917" /></flowRegion><flowPara
+         id="flowPara1211"></flowPara></flowRoot>    <g
+       style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate"
+       id="T2"
+       inkscape:label="T2"
+       transform="matrix(0.73910232,0,0,0.5461273,208.98653,74.794431)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4275-8"
+         style="fill:#ff9955;stroke:none;stroke-width:0.87967587;stroke-linecap:square;stroke-miterlimit:3"
+         d="m 66.58,327 h 110.84 c 2.252,0 4.08,1.41456 4.08,3.15723 v 30.82937 c 0,1.74266 -1.828,3.15722 -4.08,3.15722 H 66.58 c -2.252,0 -4.08,-1.41456 -4.08,-3.15722 V 330.15723 C 62.5,328.41456 64.328,327 66.58,327 Z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4277-1"
+         style="fill:none;stroke:#000000;stroke-width:5.56397533;stroke-linecap:square;stroke-miterlimit:3"
+         d="m 66.58,327 h 110.84 c 2.252,0 4.08,1.57197 4.08,3.50855 v 34.25999 c 0,1.93659 -1.828,3.50855 -4.08,3.50855 H 66.58 c -2.252,0 -4.08,-1.57196 -4.08,-3.50855 V 330.50855 C 62.5,328.57197 64.328,327 66.58,327 Z" />
+      <g
+         id="g4281-3"
+         transform="matrix(0.55260264,0,0,1.1366117,43.971217,330.20409)"
+         style="fill:#ffffff">
+        <text
+           id="text4279-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.98395729px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#2b0000;stroke:none;stroke-width:1.09447956"
+           x="42.710209"
+           y="22.359962"
+           transform="scale(1.0944796,0.91367627)">
+          <tspan
+             sodipodi:role="line"
+             id="tspan1249"
+             x="42.710209"
+             y="22.359962"
+             style="stroke-width:1.09447956">PS: 0</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Speedometer" />
+</svg>
