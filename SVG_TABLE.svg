@@ -1,0 +1,3539 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="270.933mm"
+   height="100.012mm"
+   version="1.2"
+   id="svg1344"
+   sodipodi:docname="SVG_TABLE.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata1348">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1902"
+     inkscape:window-height="988"
+     id="namedview1346"
+     showgrid="false"
+     inkscape:zoom="1.5618733"
+     inkscape:cx="250.13067"
+     inkscape:cy="159.70508"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g1994" />
+  <desc
+     id="desc2">Created by EvoPdf</desc>
+  <defs
+     id="defs4">
+    <filter
+       inkscape:label="Cool Outside"
+       inkscape:menu="Morphology"
+       inkscape:menu-tooltip="Blurred colorized contour, empty inside"
+       style="color-interpolation-filters:sRGB"
+       id="filter10940">
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result1"
+         id="feGaussianBlur10926" />
+      <feOffset
+         dx="2"
+         dy="2"
+         id="feOffset10928" />
+      <feConvolveMatrix
+         result="result3"
+         order="3 3"
+         kernelMatrix="2 0 0 0 8 0 4 0 -4 "
+         divisor="2"
+         bias="0"
+         targetX="0"
+         id="feConvolveMatrix10930" />
+      <feComposite
+         operator="xor"
+         result="result2"
+         in="result3"
+         in2="result1"
+         id="feComposite10932" />
+      <feColorMatrix
+         values="91.7"
+         result="fbSourceGraphic"
+         type="hueRotate"
+         id="feColorMatrix10934" />
+      <feBlend
+         mode="multiply"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result3"
+         id="feBlend10936" />
+      <feComposite
+         operator="in"
+         result="result6"
+         in="fbSourceGraphic"
+         in2="result4"
+         id="feComposite10938" />
+    </filter>
+    <linearGradient
+       id="linearGradient978"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop976" />
+    </linearGradient>
+    <filter
+       inkscape:label="Cool Outside"
+       inkscape:menu="Morphology"
+       inkscape:menu-tooltip="Blurred colorized contour, empty inside"
+       style="color-interpolation-filters:sRGB"
+       id="filter10940-8">
+      <feGaussianBlur
+         stdDeviation="2"
+         result="result1"
+         id="feGaussianBlur10926-6" />
+      <feOffset
+         dx="2"
+         dy="2"
+         id="feOffset10928-3" />
+      <feConvolveMatrix
+         result="result3"
+         order="3 3"
+         kernelMatrix="2 0 0 0 8 0 4 0 -4 "
+         divisor="2"
+         bias="0"
+         targetX="0"
+         id="feConvolveMatrix10930-8" />
+      <feComposite
+         operator="xor"
+         result="result2"
+         in="result3"
+         in2="result1"
+         id="feComposite10932-4" />
+      <feColorMatrix
+         values="91.7"
+         result="fbSourceGraphic"
+         type="hueRotate"
+         id="feColorMatrix10934-9" />
+      <feBlend
+         mode="multiply"
+         result="result4"
+         in="fbSourceGraphic"
+         in2="result3"
+         id="feBlend10936-8" />
+      <feComposite
+         operator="in"
+         result="result6"
+         in="fbSourceGraphic"
+         in2="result4"
+         id="feComposite10938-7" />
+    </filter>
+  </defs>
+  <g
+     id="g1342"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+     transform="matrix(1.554849,0,0,1.0410133,-4.5521112,-10.712341)">
+    <g
+       id="g14"
+       style="fill:#f0f0f0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="28"
+         width="73"
+         height="31"
+         id="rect12" />
+    </g>
+    <g
+       id="g18"
+       style="fill:#f0f0f0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="28"
+         width="73"
+         height="31"
+         id="rect16" />
+    </g>
+    <g
+       id="g22"
+       style="fill:#f0f0f0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="28"
+         width="73"
+         height="31"
+         id="rect20" />
+    </g>
+    <g
+       id="g26"
+       style="fill:#f0f0f0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="28"
+         width="73"
+         height="31"
+         id="rect24" />
+    </g>
+    <g
+       id="g30"
+       style="fill:#f0f0f0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="28"
+         width="73"
+         height="31"
+         id="rect28" />
+    </g>
+    <g
+       id="g34"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="e1">
+      <rect
+         x="8"
+         y="59"
+         width="73"
+         height="31"
+         id="rect32" />
+      <g
+         transform="matrix(0.61626324,0,0,0.59130663,-22.40376,-130.79843)"
+         inkscape:label="E1"
+         id="g1236"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path1228"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="e11"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g1234">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text1232">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan1230"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g38"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="g1">
+      <rect
+         x="81"
+         y="59"
+         width="73"
+         height="31"
+         id="rect36" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g1994"
+         inkscape:label="G1"
+         transform="matrix(0.61626324,0,0,0.59130663,48.8343,-130.79843)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1984"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g1992"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="g11">
+          <text
+             id="text1990"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%n&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan1988"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g42"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="s1">
+      <rect
+         x="154"
+         y="59"
+         width="73"
+         height="31"
+         id="rect40" />
+      <g
+         transform="matrix(0.61626324,0,0,0.59130663,123.36661,-132.02849)"
+         inkscape:label="S1"
+         id="g725"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;display:inline;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path716"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="s11"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g723">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%n&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text720">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan718"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g46"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="d1">
+      <rect
+         x="227"
+         y="59"
+         width="73"
+         height="31"
+         id="rect44" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g896"
+         inkscape:label="D1"
+         transform="matrix(0.61626324,0,0,0.59130663,196.25179,-130.18339)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path888"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g894"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="d11">
+          <text
+             id="text892"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan890"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g50"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="c1">
+      <rect
+         x="300"
+         y="59"
+         width="73"
+         height="31"
+         id="rect48" />
+      <g
+         transform="matrix(0.60167535,0,0,0.57849346,270.39783,-127.60832)"
+         inkscape:label="C1"
+         id="g1221"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path1213"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="c11"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g1219">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text1217">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan1215"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g54"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="e2">
+      <rect
+         x="8"
+         y="90"
+         width="73"
+         height="31"
+         id="rect52" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g1251"
+         inkscape:label="E2"
+         transform="matrix(0.61626324,0,0,0.59130663,-22.815541,-99.431783)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1243"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g1249"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="e22">
+          <text
+             id="text1247"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan1245"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g58"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.29010139,0,0,0.10128284,58.501788,108.74478)"
+       inkscape:label="g2"
+       sodipodi:insensitive="true">
+      <rect
+         x="81"
+         y="-175.20026"
+         width="248.18909"
+         height="296.20026"
+         id="rect56"
+         style="stroke-width:5.69956589" />
+      <g
+         transform="matrix(2.116113,0,0,5.7525419,-31.94207,-2033.585)"
+         inkscape:label="G2"
+         id="g545"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path537"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="g22"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g543">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text541">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan539"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g62"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="s2">
+      <rect
+         x="154"
+         y="90"
+         width="73"
+         height="31"
+         id="rect60" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g741"
+         inkscape:label="S2"
+         transform="matrix(0.5909976,0,0,0.56568028,124.33716,-91.701572)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path732"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g739"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="s22">
+          <text
+             id="text736"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan734"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g66"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="d2"
+       transform="matrix(0.98630137,0,0,0.96774194,4.109589,3.9032258)">
+      <rect
+         x="227"
+         y="90"
+         width="73"
+         height="31"
+         id="rect64" />
+      <g
+         transform="matrix(0.61626324,0,0,0.59130663,196.25179,-100.66184)"
+         inkscape:label="D2"
+         id="g917"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         sodipodi:insensitive="true">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path908"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="d22"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g915">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text912">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan910"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g70"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="c2">
+      <rect
+         x="300"
+         y="90"
+         width="73"
+         height="31"
+         id="rect68" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g1206"
+         inkscape:label="C2"
+         transform="matrix(0.60167535,0,0,0.57849346,269.98605,-96.241676)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1198"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g1204"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="c22">
+          <text
+             id="text1202"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan1200"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g74"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="e3">
+      <rect
+         x="8"
+         y="121"
+         width="73"
+         height="31"
+         id="rect72"
+         inkscape:label="rect72" />
+      <g
+         transform="matrix(0.61626324,0,0,0.59130663,-22.815541,-69.910233)"
+         inkscape:label="E3"
+         id="g1266"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path1258"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="e33"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g1264">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text1262">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan1260"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g78"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="g3">
+      <rect
+         x="81"
+         y="121"
+         width="73"
+         height="31"
+         id="rect76" />
+      <g
+         transform="matrix(0.61626324,0,0,0.59130663,50.481423,-69.910233)"
+         inkscape:label="G3"
+         id="g587"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path578"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="g33"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g584">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text582">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan580"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g82"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="s3">
+      <rect
+         x="154"
+         y="121"
+         width="73"
+         height="31"
+         id="rect80" />
+      <g
+         transform="matrix(0.5909976,0,0,0.56568028,125.16072,-60.949957)"
+         inkscape:label="S3"
+         id="g761"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path753"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="s33"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g759">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text757">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan755"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g86"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="d3"
+       transform="matrix(0.98630137,0,0,0.96774194,4.109589,4.9032258)">
+      <rect
+         x="227"
+         y="121"
+         width="73"
+         height="31"
+         id="rect84" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g927"
+         inkscape:label="D3"
+         transform="matrix(0.61265387,0,0,0.57849346,195.80214,-64.489221)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path919"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g925"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="d33">
+          <text
+             id="text923"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan921"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g90"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="c3">
+      <rect
+         x="300"
+         y="121"
+         width="73"
+         height="31"
+         id="rect88" />
+      <g
+         transform="matrix(0.60167535,0,0,0.57849346,269.98605,-66.105094)"
+         inkscape:label="C3"
+         id="g1191"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path1183"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="c33"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g1189">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text1187">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan1185"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g94"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="e4">
+      <rect
+         x="8"
+         y="152"
+         width="73"
+         height="31"
+         id="rect92" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g1281"
+         inkscape:label="E4"
+         transform="matrix(0.61626324,0,0,0.59130663,-22.815541,-39.158618)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1273"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g1279"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="e44">
+          <text
+             id="text1277"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan1275"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g98"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="g4">
+      <rect
+         x="81"
+         y="152"
+         width="73"
+         height="31"
+         id="rect96" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g603"
+         inkscape:label="G4"
+         transform="matrix(0.61626324,0,0,0.59130663,50.481423,-39.158618)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path594"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g600"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="g44">
+          <text
+             id="text598"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan596"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g102"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="s4">
+      <rect
+         x="154"
+         y="152"
+         width="73"
+         height="31"
+         id="rect100" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g781"
+         inkscape:label="S4"
+         transform="matrix(0.5909976,0,0,0.56568028,124.74894,-28.968278)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path773"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g779"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="s44">
+          <text
+             id="text777"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan775"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g106"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="d4">
+      <rect
+         x="227"
+         y="152"
+         width="73"
+         height="31"
+         id="rect104" />
+      <g
+         transform="matrix(0.60167535,0,0,0.57849346,196.27731,-35.353473)"
+         inkscape:label="D4"
+         id="g971"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path963"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="d44"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g969">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text967">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan965"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g110"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="c4">
+      <rect
+         x="300"
+         y="152"
+         width="73"
+         height="31"
+         id="rect108" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g1176"
+         inkscape:label="C4"
+         transform="matrix(0.60167535,0,0,0.57849346,269.98605,-34.123415)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1168"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g1174"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="c44">
+          <text
+             id="text1172"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan1170"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g114"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="e5">
+      <rect
+         x="8"
+         y="183"
+         width="73"
+         height="31"
+         id="rect112" />
+      <g
+         transform="matrix(0.58738823,0,0,0.54005394,-20.412175,10.128569)"
+         inkscape:label="E5"
+         id="g1296"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path1288"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="e55"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g1294">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text1292">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan1290"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g118"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="g5">
+      <rect
+         x="81"
+         y="183"
+         width="73"
+         height="31"
+         id="rect116" />
+      <g
+         transform="matrix(0.61626324,0,0,0.59130663,48.755035,-8.5594239)"
+         inkscape:label="G5"
+         id="g629"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path620"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="g55"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g627">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text624">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan622"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g122"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="s5">
+      <rect
+         x="154"
+         y="183"
+         width="73"
+         height="31"
+         id="rect120" />
+      <g
+         transform="matrix(0.5909976,0,0,0.56568028,125.16072,1.7833368)"
+         inkscape:label="S5"
+         id="g797"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path788"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="s55"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g795">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text792">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan790"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g126"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="d5">
+      <rect
+         x="227"
+         y="183"
+         width="73"
+         height="31"
+         id="rect124" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g987"
+         inkscape:label="D5"
+         transform="matrix(0.60167535,0,0,0.57849346,197.92443,-2.7567614)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path978"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g984"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="d55">
+          <text
+             id="text982"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan980"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g130"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="c5">
+      <rect
+         x="300"
+         y="183"
+         width="73"
+         height="31"
+         id="rect128" />
+      <g
+         transform="matrix(0.60167535,0,0,0.57849346,269.98605,-3.3718006)"
+         inkscape:label="C5"
+         id="g1161"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path1153"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="c55"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g1159">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text1157">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan1155"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g134"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="e6">
+      <rect
+         x="8"
+         y="214"
+         width="73"
+         height="31"
+         id="rect132" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g1311"
+         inkscape:label="E6"
+         transform="matrix(0.58738823,0,0,0.54005394,-20.000394,41.495216)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1303"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g1309"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="e66">
+          <text
+             id="text1307"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan1305"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g138"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="g6">
+      <rect
+         x="81"
+         y="214"
+         width="73"
+         height="31"
+         id="rect136" />
+      <g
+         transform="matrix(0.5909976,0,0,0.57849346,51.451971,27.747295)"
+         inkscape:label="G6"
+         id="g645"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path636"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="g66"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g643">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text640">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan638"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g142"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="s6">
+      <rect
+         x="154"
+         y="214"
+         width="73"
+         height="31"
+         id="rect140" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g813"
+         inkscape:label="S6"
+         transform="matrix(0.5909976,0,0,0.56568028,124.74894,32.534952)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path804"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g811"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="s66">
+          <text
+             id="text808"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan806"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g146"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="d6">
+      <rect
+         x="227"
+         y="214"
+         width="73"
+         height="31"
+         id="rect144" />
+      <g
+         transform="matrix(0.60167535,0,0,0.57849346,197.10087,27.994853)"
+         inkscape:label="D6"
+         id="g1003"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path994"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="d66"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g1000">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text998">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan996"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g150"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="c6">
+      <rect
+         x="300"
+         y="214"
+         width="73"
+         height="31"
+         id="rect148" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g1146"
+         inkscape:label="C6"
+         transform="matrix(0.60167535,0,0,0.57849346,269.57427,29.224911)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1138"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g1144"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="c66">
+          <text
+             id="text1142"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan1140"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g154"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="e7">
+      <rect
+         x="8"
+         y="245"
+         width="73"
+         height="31"
+         id="rect152" />
+      <g
+         transform="matrix(0.58738823,0,0,0.54005394,-21.235736,72.861863)"
+         inkscape:label="E7"
+         id="g1326"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path1318"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="e77"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g1324">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text1322">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan1320"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g158"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="g7">
+      <rect
+         x="81"
+         y="245"
+         width="73"
+         height="31"
+         id="rect156" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g661"
+         inkscape:label="G7"
+         transform="matrix(0.5909976,0,0,0.57849346,51.451971,58.49891)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path652"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g659"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="g77">
+          <text
+             id="text656"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan654"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g162"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="s7">
+      <rect
+         x="154"
+         y="245"
+         width="73"
+         height="31"
+         id="rect160" />
+      <g
+         transform="matrix(0.5909976,0,0,0.56568028,125.5725,63.901599)"
+         inkscape:label="S7"
+         id="g829"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path820"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="s77"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g827">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text824">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan822"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g166"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="d7">
+      <rect
+         x="227"
+         y="245"
+         width="73"
+         height="31"
+         id="rect164" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g1019"
+         inkscape:label="D7"
+         transform="matrix(0.60167535,0,0,0.57849346,197.51265,58.131435)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1010"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g1016"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="d77">
+          <text
+             id="text1014"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan1012"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g170"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="c7">
+      <rect
+         x="300"
+         y="245"
+         width="73"
+         height="31"
+         id="rect168" />
+      <g
+         transform="matrix(0.60167535,0,0,0.57849346,270.39783,59.361493)"
+         inkscape:label="C7"
+         id="g1131"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path1122"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="c77"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g1128">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text1126">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan1124"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g174"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="e8">
+      <rect
+         x="8"
+         y="276"
+         width="73"
+         height="31"
+         id="rect172" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g1341"
+         inkscape:label="E8"
+         transform="matrix(0.58738823,0,0,0.54005394,-20.823955,102.99845)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1333"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g1339"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="e88">
+          <text
+             id="text1337"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan1335"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g178"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="g8">
+      <rect
+         x="81"
+         y="276"
+         width="73"
+         height="31"
+         id="rect176" />
+      <g
+         transform="matrix(0.5909976,0,0,0.57849346,52.275535,91.710654)"
+         inkscape:label="G8"
+         id="g677"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path668"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="g88"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g675">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text672">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan670"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g182"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="s8">
+      <rect
+         x="154"
+         y="276"
+         width="73"
+         height="31"
+         id="rect180" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g845"
+         inkscape:label="S8"
+         transform="matrix(0.5909976,0,0,0.56568028,124.74894,94.038181)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path836"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g843"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="s88">
+          <text
+             id="text840"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan838"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g186"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="d8">
+      <rect
+         x="227"
+         y="276"
+         width="73"
+         height="31"
+         id="rect184" />
+      <g
+         transform="matrix(0.60167535,0,0,0.57849346,197.10087,87.652985)"
+         inkscape:label="D8"
+         id="g1035"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path1026"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="d88"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g1032">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text1030">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan1028"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g190"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="c8">
+      <rect
+         x="300"
+         y="276"
+         width="73"
+         height="31"
+         id="rect188" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g1115"
+         inkscape:label="C8"
+         transform="matrix(0.60167535,0,0,0.57849346,269.98605,90.113108)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1106"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g1112"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="c88">
+          <text
+             id="text1110"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan1108"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g194"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="e9">
+      <rect
+         x="8"
+         y="307"
+         width="73"
+         height="31"
+         id="rect192" />
+      <g
+         transform="matrix(0.58738823,0,0,0.54005394,-21.235736,133.75006)"
+         inkscape:label="E9"
+         id="g1356"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path1348"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="e99"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g1354">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text1352">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan1350"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g198"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="g9">
+      <rect
+         x="81"
+         y="307"
+         width="73"
+         height="31"
+         id="rect196" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g693"
+         inkscape:label="G9"
+         transform="matrix(0.5909976,0,0,0.57849346,51.863752,121.84724)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path684"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g691"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="g99">
+          <text
+             id="text688"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan686"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g202"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="s9">
+      <rect
+         x="154"
+         y="307"
+         width="73"
+         height="31"
+         id="rect200" />
+      <g
+         transform="matrix(0.5909976,0,0,0.56568028,125.5725,124.7898)"
+         inkscape:label="S9"
+         id="g861"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path852"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="s99"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g859">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text856">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan854"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g206"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="d9">
+      <rect
+         x="227"
+         y="307"
+         width="73"
+         height="31"
+         id="rect204" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g1051"
+         inkscape:label="D9"
+         transform="matrix(0.60167535,0,0,0.57849346,198.33621,120.86473)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1042"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g1048"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="d99">
+          <text
+             id="text1046"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan1044"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g210"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="c9">
+      <rect
+         x="300"
+         y="307"
+         width="73"
+         height="31"
+         id="rect208" />
+      <g
+         transform="matrix(0.60167535,0,0,0.57849346,269.98605,122.70982)"
+         inkscape:label="C9"
+         id="g1099"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path1090"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="c99"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g1096">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text1094">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan1092"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g214"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="e10">
+      <rect
+         x="8"
+         y="338"
+         width="73"
+         height="31"
+         id="rect212" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g1371"
+         inkscape:label="E10"
+         transform="matrix(0.58738823,0,0,0.54005394,-19.588613,164.50167)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1363"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g1369"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="e1010">
+          <text
+             id="text1367"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan1365"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g218"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="g10">
+      <rect
+         x="81"
+         y="338"
+         width="73"
+         height="31"
+         id="rect216" />
+      <g
+         transform="matrix(0.5909976,0,0,0.57849346,51.451971,152.59885)"
+         inkscape:label="G10"
+         id="g709"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path700"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="g1010"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g707">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text704">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan702"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g222"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="s10">
+      <rect
+         x="154"
+         y="338"
+         width="73"
+         height="31"
+         id="rect220" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g881"
+         inkscape:label="S10"
+         transform="matrix(0.5909976,0,0,0.56568028,124.74894,156.15645)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path873"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g879"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="s1010">
+          <text
+             id="text877"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan875"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g226"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="d10">
+      <rect
+         x="227"
+         y="338"
+         width="73"
+         height="31"
+         id="rect224" />
+      <g
+         transform="matrix(0.60167535,0,0,0.57849346,197.51265,151.00131)"
+         inkscape:label="D10"
+         id="g1067"
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+        <path
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           id="path1058"
+           inkscape:connector-curvature="0" />
+        <g
+           inkscape:label="d1010"
+           style="fill:#ffffff"
+           transform="translate(65.5,332)"
+           id="g1064">
+          <text
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}"
+             transform="translate(4.484,26.802)"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             id="text1062">
+            <tspan
+               y="0"
+               x="0"
+               id="tspan1060"
+               sodipodi:role="line">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g230"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       inkscape:label="c10">
+      <rect
+         x="300"
+         y="338"
+         width="73"
+         height="31"
+         id="rect228" />
+      <g
+         style="font-size:12px;font-family:'Lucida Grande', 'Lucida Sans Unicode', Arial, Helvetica, sans-serif;isolation:isolate;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+         id="g1083"
+         inkscape:label="C10"
+         transform="matrix(0.60167535,0,0,0.57849346,269.98605,151.61634)">
+        <path
+           inkscape:connector-curvature="0"
+           id="path1074"
+           style="fill:#ffffff;stroke:none;stroke-width:0.97913688;stroke-linecap:square;stroke-miterlimit:3"
+           d="M 58.623374,325.65071 H 164.88669 c 2.15901,0 3.91153,1.828 3.91153,4.08 v 39.84 c 0,2.252 -1.75252,4.08 -3.91153,4.08 H 58.623374 c -2.159013,0 -3.911533,-1.828 -3.911533,-4.08 v -39.84 c 0,-2.252 1.75252,-4.08 3.911533,-4.08 z" />
+        <g
+           id="g1080"
+           transform="translate(65.5,332)"
+           style="fill:#ffffff"
+           inkscape:label="c1010">
+          <text
+             id="text1078"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.99902725px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.87999998;fill:#241c1c;stroke:none"
+             transform="translate(4.484,26.802)"
+             inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;%s&quot;,&quot;type&quot;:&quot;Good&quot;}">
+            <tspan
+               sodipodi:role="line"
+               id="tspan1076"
+               x="0"
+               y="0">0</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g234"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="338"
+         width="74"
+         height="1"
+         id="rect232" />
+    </g>
+    <g
+       id="g238"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="369"
+         width="74"
+         height="1"
+         id="rect236" />
+    </g>
+    <g
+       id="g242"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="338"
+         width="1"
+         height="32"
+         id="rect240" />
+    </g>
+    <g
+       id="g246"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="373"
+         y="338"
+         width="1"
+         height="32"
+         id="rect244" />
+    </g>
+    <g
+       id="g250"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="338"
+         width="74"
+         height="1"
+         id="rect248" />
+    </g>
+    <g
+       id="g254"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="369"
+         width="74"
+         height="1"
+         id="rect252" />
+    </g>
+    <g
+       id="g258"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="338"
+         width="1"
+         height="32"
+         id="rect256" />
+    </g>
+    <g
+       id="g266"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="338"
+         width="74"
+         height="1"
+         id="rect264" />
+    </g>
+    <g
+       id="g270"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="369"
+         width="74"
+         height="1"
+         id="rect268" />
+    </g>
+    <g
+       id="g274"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="338"
+         width="1"
+         height="32"
+         id="rect272" />
+    </g>
+    <g
+       id="g282"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="338"
+         width="74"
+         height="1"
+         id="rect280" />
+    </g>
+    <g
+       id="g286"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="369"
+         width="74"
+         height="1"
+         id="rect284" />
+    </g>
+    <g
+       id="g290"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="338"
+         width="1"
+         height="32"
+         id="rect288" />
+    </g>
+    <g
+       id="g298"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="338"
+         width="74"
+         height="1"
+         id="rect296" />
+    </g>
+    <g
+       id="g302"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="369"
+         width="74"
+         height="1"
+         id="rect300" />
+    </g>
+    <g
+       id="g306"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="338"
+         width="1"
+         height="32"
+         id="rect304" />
+    </g>
+    <g
+       id="g314"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="307"
+         width="74"
+         height="1"
+         id="rect312" />
+    </g>
+    <g
+       id="g322"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="307"
+         width="1"
+         height="32"
+         id="rect320" />
+    </g>
+    <g
+       id="g326"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="373"
+         y="307"
+         width="1"
+         height="32"
+         id="rect324" />
+    </g>
+    <g
+       id="g330"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="307"
+         width="74"
+         height="1"
+         id="rect328" />
+    </g>
+    <g
+       id="g338"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="307"
+         width="1"
+         height="32"
+         id="rect336" />
+    </g>
+    <g
+       id="g346"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="307"
+         width="74"
+         height="1"
+         id="rect344" />
+    </g>
+    <g
+       id="g354"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="307"
+         width="1"
+         height="32"
+         id="rect352" />
+    </g>
+    <g
+       id="g362"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="307"
+         width="74"
+         height="1"
+         id="rect360" />
+    </g>
+    <g
+       id="g370"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="307"
+         width="1"
+         height="32"
+         id="rect368" />
+    </g>
+    <g
+       id="g378"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="307"
+         width="74"
+         height="1"
+         id="rect376" />
+    </g>
+    <g
+       id="g386"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="307"
+         width="1"
+         height="32"
+         id="rect384" />
+    </g>
+    <g
+       id="g394"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="276"
+         width="74"
+         height="1"
+         id="rect392" />
+    </g>
+    <g
+       id="g402"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="276"
+         width="1"
+         height="32"
+         id="rect400" />
+    </g>
+    <g
+       id="g406"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="373"
+         y="276"
+         width="1"
+         height="32"
+         id="rect404" />
+    </g>
+    <g
+       id="g410"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="276"
+         width="74"
+         height="1"
+         id="rect408" />
+    </g>
+    <g
+       id="g418"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="276"
+         width="1"
+         height="32"
+         id="rect416" />
+    </g>
+    <g
+       id="g426"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="276"
+         width="74"
+         height="1"
+         id="rect424" />
+    </g>
+    <g
+       id="g434"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="276"
+         width="1"
+         height="32"
+         id="rect432" />
+    </g>
+    <g
+       id="g442"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="276"
+         width="74"
+         height="1"
+         id="rect440" />
+    </g>
+    <g
+       id="g450"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="276"
+         width="1"
+         height="32"
+         id="rect448" />
+    </g>
+    <g
+       id="g458"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="276"
+         width="74"
+         height="1"
+         id="rect456" />
+    </g>
+    <g
+       id="g466"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="276"
+         width="1"
+         height="32"
+         id="rect464" />
+    </g>
+    <g
+       id="g474"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="245"
+         width="74"
+         height="1"
+         id="rect472" />
+    </g>
+    <g
+       id="g482"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="245"
+         width="1"
+         height="32"
+         id="rect480" />
+    </g>
+    <g
+       id="g486"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="373"
+         y="245"
+         width="1"
+         height="32"
+         id="rect484" />
+    </g>
+    <g
+       id="g490"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="245"
+         width="74"
+         height="1"
+         id="rect488" />
+    </g>
+    <g
+       id="g498"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="245"
+         width="1"
+         height="32"
+         id="rect496" />
+    </g>
+    <g
+       id="g506"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="245"
+         width="74"
+         height="1"
+         id="rect504" />
+    </g>
+    <g
+       id="g514"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="245"
+         width="1"
+         height="32"
+         id="rect512" />
+    </g>
+    <g
+       id="g522"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="245"
+         width="74"
+         height="1"
+         id="rect520" />
+    </g>
+    <g
+       id="g530"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="245"
+         width="1"
+         height="32"
+         id="rect528" />
+    </g>
+    <g
+       id="g538"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="245"
+         width="74"
+         height="1"
+         id="rect536" />
+    </g>
+    <g
+       id="g546"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="245"
+         width="1"
+         height="32"
+         id="rect544" />
+    </g>
+    <g
+       id="g554"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="214"
+         width="74"
+         height="1"
+         id="rect552" />
+    </g>
+    <g
+       id="g562"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="214"
+         width="1"
+         height="32"
+         id="rect560" />
+    </g>
+    <g
+       id="g566"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="373"
+         y="214"
+         width="1"
+         height="32"
+         id="rect564" />
+    </g>
+    <g
+       id="g570"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="214"
+         width="74"
+         height="1"
+         id="rect568" />
+    </g>
+    <g
+       id="g578"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="214"
+         width="1"
+         height="32"
+         id="rect576" />
+    </g>
+    <g
+       id="g586"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="214"
+         width="74"
+         height="1"
+         id="rect584" />
+    </g>
+    <g
+       id="g594"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="214"
+         width="1"
+         height="32"
+         id="rect592" />
+    </g>
+    <g
+       id="g602"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="214"
+         width="74"
+         height="1"
+         id="rect600" />
+    </g>
+    <g
+       id="g610"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="214"
+         width="1"
+         height="32"
+         id="rect608" />
+    </g>
+    <g
+       id="g618"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="214"
+         width="74"
+         height="1"
+         id="rect616" />
+    </g>
+    <g
+       id="g626"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="214"
+         width="1"
+         height="32"
+         id="rect624" />
+    </g>
+    <g
+       id="g634"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="183"
+         width="74"
+         height="1"
+         id="rect632" />
+    </g>
+    <g
+       id="g642"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="183"
+         width="1"
+         height="32"
+         id="rect640" />
+    </g>
+    <g
+       id="g646"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="373"
+         y="183"
+         width="1"
+         height="32"
+         id="rect644" />
+    </g>
+    <g
+       id="g650"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="183"
+         width="74"
+         height="1"
+         id="rect648" />
+    </g>
+    <g
+       id="g658"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="183"
+         width="1"
+         height="32"
+         id="rect656" />
+    </g>
+    <g
+       id="g666"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="183"
+         width="74"
+         height="1"
+         id="rect664" />
+    </g>
+    <g
+       id="g674"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="183"
+         width="1"
+         height="32"
+         id="rect672" />
+    </g>
+    <g
+       id="g682"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="183"
+         width="74"
+         height="1"
+         id="rect680" />
+    </g>
+    <g
+       id="g690"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="183"
+         width="1"
+         height="32"
+         id="rect688" />
+    </g>
+    <g
+       id="g698"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="183"
+         width="74"
+         height="1"
+         id="rect696" />
+    </g>
+    <g
+       id="g706"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="183"
+         width="1"
+         height="32"
+         id="rect704" />
+    </g>
+    <g
+       id="g714"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="152"
+         width="74"
+         height="1"
+         id="rect712" />
+    </g>
+    <g
+       id="g722"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="152"
+         width="1"
+         height="32"
+         id="rect720" />
+    </g>
+    <g
+       id="g726"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="373"
+         y="152"
+         width="1"
+         height="32"
+         id="rect724" />
+    </g>
+    <g
+       id="g730"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="152"
+         width="74"
+         height="1"
+         id="rect728" />
+    </g>
+    <g
+       id="g738"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="152"
+         width="1"
+         height="32"
+         id="rect736" />
+    </g>
+    <g
+       id="g746"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="152"
+         width="74"
+         height="1"
+         id="rect744" />
+    </g>
+    <g
+       id="g754"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="152"
+         width="1"
+         height="32"
+         id="rect752" />
+    </g>
+    <g
+       id="g762"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="152"
+         width="74"
+         height="1"
+         id="rect760" />
+    </g>
+    <g
+       id="g770"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="152"
+         width="1"
+         height="32"
+         id="rect768" />
+    </g>
+    <g
+       id="g778"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="152"
+         width="74"
+         height="1"
+         id="rect776" />
+    </g>
+    <g
+       id="g786"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="152"
+         width="1"
+         height="32"
+         id="rect784" />
+    </g>
+    <g
+       id="g794"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="121"
+         width="74"
+         height="1"
+         id="rect792" />
+    </g>
+    <g
+       id="g802"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="121"
+         width="1"
+         height="32"
+         id="rect800" />
+    </g>
+    <g
+       id="g806"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="373"
+         y="121"
+         width="1"
+         height="32"
+         id="rect804" />
+    </g>
+    <g
+       id="g810"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="121"
+         width="74"
+         height="1"
+         id="rect808" />
+    </g>
+    <g
+       id="g818"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="121"
+         width="1"
+         height="32"
+         id="rect816" />
+    </g>
+    <g
+       id="g826"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="121"
+         width="74"
+         height="1"
+         id="rect824" />
+    </g>
+    <g
+       id="g834"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="121"
+         width="1"
+         height="32"
+         id="rect832" />
+    </g>
+    <g
+       id="g842"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="121"
+         width="74"
+         height="1"
+         id="rect840" />
+    </g>
+    <g
+       id="g850"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="121"
+         width="1"
+         height="32"
+         id="rect848" />
+    </g>
+    <g
+       id="g858"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="121"
+         width="74"
+         height="1"
+         id="rect856" />
+    </g>
+    <g
+       id="g866"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="121"
+         width="1"
+         height="32"
+         id="rect864" />
+    </g>
+    <g
+       id="g874"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="90"
+         width="74"
+         height="1"
+         id="rect872" />
+    </g>
+    <g
+       id="g882"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="90"
+         width="1"
+         height="32"
+         id="rect880" />
+    </g>
+    <g
+       id="g886"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="373"
+         y="90"
+         width="1"
+         height="32"
+         id="rect884" />
+    </g>
+    <g
+       id="g890"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="90"
+         width="74"
+         height="1"
+         id="rect888" />
+    </g>
+    <g
+       id="g898"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="90"
+         width="1"
+         height="32"
+         id="rect896" />
+    </g>
+    <g
+       id="g906"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="90"
+         width="74"
+         height="1"
+         id="rect904" />
+    </g>
+    <g
+       id="g914"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="90"
+         width="1"
+         height="32"
+         id="rect912" />
+    </g>
+    <g
+       id="g922"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="90"
+         width="74"
+         height="1"
+         id="rect920" />
+    </g>
+    <g
+       id="g930"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="90"
+         width="1"
+         height="32"
+         id="rect928" />
+    </g>
+    <g
+       id="g938"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="90"
+         width="74"
+         height="1"
+         id="rect936" />
+    </g>
+    <g
+       id="g946"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="90"
+         width="1"
+         height="32"
+         id="rect944" />
+    </g>
+    <g
+       id="g954"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="59"
+         width="74"
+         height="1"
+         id="rect952" />
+    </g>
+    <g
+       id="g962"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="59"
+         width="1"
+         height="32"
+         id="rect960" />
+    </g>
+    <g
+       id="g966"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="373"
+         y="59"
+         width="1"
+         height="32"
+         id="rect964" />
+    </g>
+    <g
+       id="g970"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="59"
+         width="74"
+         height="1"
+         id="rect968" />
+    </g>
+    <g
+       id="g978"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="59"
+         width="1"
+         height="32"
+         id="rect976" />
+    </g>
+    <g
+       id="g986"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="59"
+         width="74"
+         height="1"
+         id="rect984" />
+    </g>
+    <g
+       id="g994"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="59"
+         width="1"
+         height="32"
+         id="rect992" />
+    </g>
+    <g
+       id="g1002"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="59"
+         width="74"
+         height="1"
+         id="rect1000" />
+    </g>
+    <g
+       id="g1010"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="59"
+         width="1"
+         height="32"
+         id="rect1008" />
+    </g>
+    <g
+       id="g1018"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="59"
+         width="74"
+         height="1"
+         id="rect1016" />
+    </g>
+    <g
+       id="g1026"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="59"
+         width="1"
+         height="32"
+         id="rect1024" />
+    </g>
+    <g
+       id="g1034"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="28"
+         width="74"
+         height="1"
+         id="rect1032" />
+    </g>
+    <g
+       id="g1042"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="300"
+         y="28"
+         width="1"
+         height="32"
+         id="rect1040" />
+    </g>
+    <g
+       id="g1046"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="373"
+         y="28"
+         width="1"
+         height="32"
+         id="rect1044" />
+    </g>
+    <g
+       id="g1050"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="28"
+         width="74"
+         height="1"
+         id="rect1048" />
+    </g>
+    <g
+       id="g1058"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="227"
+         y="28"
+         width="1"
+         height="32"
+         id="rect1056" />
+    </g>
+    <g
+       id="g1066"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="28"
+         width="74"
+         height="1"
+         id="rect1064" />
+    </g>
+    <g
+       id="g1074"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="154"
+         y="28"
+         width="1"
+         height="32"
+         id="rect1072" />
+    </g>
+    <g
+       id="g1082"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="28"
+         width="74"
+         height="1"
+         id="rect1080" />
+    </g>
+    <g
+       id="g1090"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="81"
+         y="28"
+         width="1"
+         height="32"
+         id="rect1088" />
+    </g>
+    <g
+       id="g1098"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="28"
+         width="74"
+         height="1"
+         id="rect1096" />
+    </g>
+    <g
+       id="g1102"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="59"
+         width="74"
+         height="1"
+         id="rect1100" />
+    </g>
+    <g
+       id="g1106"
+       style="fill:#c0c0c0;fill-opacity:1;stroke:none">
+      <rect
+         x="8"
+         y="28"
+         width="1"
+         height="32"
+         id="rect1104" />
+    </g>
+    <g
+       id="g1114"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="129.38083"
+         y="23"
+         font-size="16"
+         font-weight="400"
+         font-style="normal"
+         id="text1112"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.57615089px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
+           sodipodi:role="line"
+           id="tspan1650"
+           x="129.38083"
+           y="23">Percentage Change</tspan></text>
+    </g>
+    <g
+       id="g1118"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="17.105959"
+         y="39.418747"
+         font-size="16"
+         font-weight="700"
+         font-style="normal"
+         id="text1116"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.95672798px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.14089549"
+         transform="scale(0.79548957,1.2570875)"><tspan
+           sodipodi:role="line"
+           id="tspan1648"
+           x="17.105959"
+           y="39.418747"
+           style="stroke-width:1.14089549">Error Markers</tspan></text>
+    </g>
+    <g
+       id="g1122"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="87"
+         y="49"
+         font-size="16"
+         font-weight="700"
+         font-style="normal"
+         id="text1120"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.62416363px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
+           sodipodi:role="line"
+           id="tspan1646"
+           x="87"
+           y="49">Version 1</tspan></text>
+    </g>
+    <g
+       id="g1126"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="160"
+         y="49"
+         font-size="16"
+         font-weight="700"
+         font-style="normal"
+         id="text1124"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.62416363px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
+           sodipodi:role="line"
+           id="tspan1644"
+           x="160"
+           y="49">Version 2</tspan></text>
+    </g>
+    <g
+       id="g1130"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="233"
+         y="49"
+         font-size="16"
+         font-weight="700"
+         font-style="normal"
+         id="text1128"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.62416363px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
+           sodipodi:role="line"
+           id="tspan1642"
+           x="233"
+           y="49">Difference</tspan></text>
+    </g>
+    <g
+       id="g1134"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+      <text
+         xml:space="preserve"
+         x="306"
+         y="49"
+         font-size="16"
+         font-weight="700"
+         font-style="normal"
+         id="text1132"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.62416363px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"><tspan
+           sodipodi:role="line"
+           id="tspan1640"
+           x="306"
+           y="49">% Change</tspan></text>
+    </g>
+  </g>
+</svg>
