@@ -1818,6 +1818,15 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
+       xlink:href="#linearGradient7662"
+       id="linearGradient7664"
+       x1="8"
+       y1="75"
+       x2="9"
+       y2="75"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
        xlink:href="#linearGradient7668"
        id="linearGradient7670"
        x1="8"
@@ -2338,6 +2347,15 @@
        x2="298.12411"
        y2="45.03186"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7662"
+       id="linearGradient8254"
+       gradientUnits="userSpaceOnUse"
+       x1="8"
+       y1="75"
+       x2="9"
+       y2="75" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient7606"
@@ -3088,24 +3106,6 @@
        y1="19.813314"
        x2="17.108723"
        y2="19.813314" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7668"
-       id="linearGradient10234"
-       gradientUnits="userSpaceOnUse"
-       x1="8"
-       y1="106"
-       x2="9"
-       y2="106" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7668"
-       id="linearGradient10236"
-       gradientUnits="userSpaceOnUse"
-       x1="8"
-       y1="106"
-       x2="9"
-       y2="106" />
   </defs>
   <g
      id="g1078"
@@ -5672,6 +5672,18 @@
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.7927599px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient8946);fill-opacity:1;stroke-width:0.76743811">Error Markers</tspan></text>
     </g>
     <g
+       style="fill:url(#linearGradient7664);fill-opacity:1;stroke:none"
+       id="g1713"
+       transform="matrix(1.4898108,0,0,10.614079,-210.27967,-597.20878)">
+      <rect
+         id="rect1711"
+         height="32"
+         width="1"
+         y="59"
+         x="8"
+         style="fill:url(#linearGradient8254);fill-opacity:1" />
+    </g>
+    <g
        style="fill:url(#linearGradient7608);fill-opacity:1;stroke:none"
        id="g1749"
        transform="matrix(6.8088142,0,0,1,-253.60755,60.613102)">
@@ -5874,18 +5886,6 @@
          width="74"
          height="1"
          id="rect10182" />
-    </g>
-    <g
-       id="g10232"
-       style="fill:url(#linearGradient10236);fill-opacity:1;stroke:none"
-       transform="matrix(0.98019554,0,0,10.479947,-206.20275,-914.17333)">
-      <rect
-         x="8"
-         y="90"
-         width="1"
-         height="32"
-         id="rect10230"
-         style="fill:url(#linearGradient10234);fill-opacity:1" />
     </g>
   </g>
 </svg>
